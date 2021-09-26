@@ -1,7 +1,7 @@
 # FinancialChatbot
 
 Android chatbot that gives users finance based advice on saving,budgeting, boosting your credit score.
-Demonstrates how to integrate the Dialogflow API in an Android app to handle Natural Language Processing.
+Demonstrates how to integrate Google's Dialogflow API in an Android app to handle Natural Language Processing.
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/45044744/134807837-a02615d0-da2d-4a7a-9c64-2729062ba778.jpeg" width="300" />
